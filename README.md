@@ -32,3 +32,14 @@
  <li> Well done!!! 😃 </li>
 </ol>
 
+## FAQ ##
+
+<h5>What is a workflow artifact for Github Actions?</h5>
+<p>
+<details>
+    <summary><h5>Answer:</h5></summary>
+    <p>An artifact is a file or collection of files produced during a workflow run. <br/>For example, you can use artifacts to save your build and test output after a workflow run has ended. <br/>All actions and workflows called within a run have write access to that run's artifacts</p>
+
+</details>
+</p>
+
